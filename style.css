@@ -1,0 +1,47 @@
+body{
+    font-family: 'Sora', sans-serif;
+
+}
+.summary-area{
+    justify-content: center;
+    width: 750px;
+    margin-left: 288px;
+    margin-top: 60px;
+}
+
+
+.summary-heading{
+    text-align: center;
+}
+.summary-paragraph{
+    text-align: center;
+}
+section{
+    margin-bottom: 50px;
+}
+.card{
+    text-align: center;
+}
+h5{
+    margin-top: 10px;
+    margin-bottom: 12px;
+    font-size: 34px;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+span{
+    color: darkgrey;
+}
+footer{
+    text-align: center;
+}
+.footer-img{
+    width: 395px;
+    margin-top: -72px;
+}
+.footer-area{
+    padding: 80px;
+    margin-top: 120px;
+}
